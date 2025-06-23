@@ -94,9 +94,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kavixzz&show_icons=true&theme=tokyonight" alt="kavixzz GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavixzz&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+
 
 ---
 
