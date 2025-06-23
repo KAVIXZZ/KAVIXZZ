@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/e4WvQns.png" alt="Project Management Banner" width="100%" />
+  <img src="[https://i.imgur.com/e4WvQns.png](https://miro.medium.com/v2/resize:fit:828/format:webp/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)" alt="Project Management Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nethsara Perera</h1>
